@@ -1,4 +1,4 @@
-# LMFRnet
+# LMFR-Net
 dataset:
     DRIVE
     CHASEDB1
