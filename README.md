@@ -1,5 +1,5 @@
 # LMFRnet
-#dataset:
+dataset:
 DRIVE
 CHASEDB1
 STARE
